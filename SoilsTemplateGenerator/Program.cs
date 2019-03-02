@@ -26,7 +26,7 @@ namespace HunterKelly.ECS.SoilsTemplateGenerator
             Console.Write("Enter moisture % range: ");
             moisture = Console.ReadLine();
 
-            var Soils = $@"Soil Standard Template
+            var soils = $@"Soil Standard Template
 The Undersigned arrived on site, as requested, to observe: 
 
 1. The placement and compaction of {testType} Soils for {location}. 
