@@ -35,7 +35,7 @@ The Undersigned arrived on site, as requested, to observe:
     compacted material, at the areas and elevations tested, met or exceeded project requirements of {density} 
 of the maximum density at {moisture} of the optimum moisture content as determined in ECS' Laboratory.";
 
-            Console.WriteLine(Soils);
+            Console.WriteLine(soils);
             Console.ReadLine();
         }
 
