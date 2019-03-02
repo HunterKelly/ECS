@@ -1,7 +1,0 @@
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\bin\Debug\Soils Template Generator.exe.config
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\bin\Debug\Soils Template Generator.exe
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\bin\Debug\Soils Template Generator.pdb
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\obj\Debug\Soils Template Generator.csprojAssemblyReference.cache
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\obj\Debug\Soils Template Generator.csproj.CoreCompileInputs.cache
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\obj\Debug\Soils Template Generator.exe
-C:\Users\ETHEL User\source\repos\Soils Template Generator\Soils Template Generator\obj\Debug\Soils Template Generator.pdb
